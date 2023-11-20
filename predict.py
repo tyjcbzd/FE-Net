@@ -17,13 +17,12 @@ if __name__ == "__main__":
     # seeding(42)
 
     """ Load dataset """
-    path = "./Kvasir-SEG"
+    path = "your datasets"
     (train_x, train_y), (test_x, test_y) = load_data_Kvasir(path)
 
     """ Hyperparameters """
     size = (256, 256)
-    num_iter = 10
-    checkpoint_path = "new_net/checkpoint_new_net_kvasir.pth"
+    checkpoint_path = "your_file.pth"
 
     """ Directories """
     create_dir("results")
@@ -31,15 +30,12 @@ if __name__ == "__main__":
     """ Load the checkpoint """
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-    # model = FENet(in_channels=3, num_classes=1, base_c=32)
-    # model = model.to(device)
-    model = newNet(in_channels=3, num_classes=1, base_c=32).to(device)
+    model = FENet(in_channels=3, num_classes=1, base_c=32).to(device)
     model.load_state_dict(torch.load(checkpoint_path, map_location=device))
     model = CustomDataParallel(model).to(device)
     model.eval()
 
     """ Testing """
-    # origin_masks = init_mask(test_x, size)
     file = open("new_net/new_net_test_results_bilinear_KvasirSEG.csv", "w")
     file.write("Jaccard,F1,Recall,Precision,Specificity,Accuracy,F2,Mean Time,Mean FPS\n")
 
