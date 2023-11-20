@@ -1,0 +1,2058 @@
+
+2023-09-26 13:19:48.508330
+Hyperparameters:
+Image Size: (256, 256)
+Batch Size: 8
+LR: 0.0001
+Epochs: 500
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+2023-09-26 13:21:04.955164
+Hyperparameters:
+Image Size: (256, 256)
+Batch Size: 8
+LR: 0.0001
+Epochs: 500
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 01 | Epoch Time: 0m 44s
+	Train Loss: 0.591
+	 Val. Loss: 0.594
+
+Epoch: 02 | Epoch Time: 1m 21s
+	Train Loss: 0.508
+	 Val. Loss: 0.615
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 03 | Epoch Time: 1m 57s
+	Train Loss: 0.468
+	 Val. Loss: 0.456
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 04 | Epoch Time: 2m 32s
+	Train Loss: 0.431
+	 Val. Loss: 0.429
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 05 | Epoch Time: 3m 8s
+	Train Loss: 0.413
+	 Val. Loss: 0.392
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 06 | Epoch Time: 3m 44s
+	Train Loss: 0.384
+	 Val. Loss: 0.344
+
+Epoch: 07 | Epoch Time: 4m 20s
+	Train Loss: 0.374
+	 Val. Loss: 0.363
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 08 | Epoch Time: 4m 56s
+	Train Loss: 0.356
+	 Val. Loss: 0.336
+
+Epoch: 09 | Epoch Time: 5m 32s
+	Train Loss: 0.338
+	 Val. Loss: 0.357
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 10 | Epoch Time: 6m 8s
+	Train Loss: 0.328
+	 Val. Loss: 0.307
+
+Epoch: 11 | Epoch Time: 6m 44s
+	Train Loss: 0.312
+	 Val. Loss: 0.319
+
+Epoch: 12 | Epoch Time: 7m 20s
+	Train Loss: 0.296
+	 Val. Loss: 0.365
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 13 | Epoch Time: 7m 56s
+	Train Loss: 0.278
+	 Val. Loss: 0.264
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 14 | Epoch Time: 8m 32s
+	Train Loss: 0.281
+	 Val. Loss: 0.246
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 15 | Epoch Time: 9m 8s
+	Train Loss: 0.259
+	 Val. Loss: 0.240
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 16 | Epoch Time: 9m 44s
+	Train Loss: 0.254
+	 Val. Loss: 0.221
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 17 | Epoch Time: 10m 20s
+	Train Loss: 0.251
+	 Val. Loss: 0.209
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 18 | Epoch Time: 10m 56s
+	Train Loss: 0.224
+	 Val. Loss: 0.197
+
+Epoch: 19 | Epoch Time: 11m 31s
+	Train Loss: 0.219
+	 Val. Loss: 0.199
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 20 | Epoch Time: 12m 7s
+	Train Loss: 0.211
+	 Val. Loss: 0.169
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 21 | Epoch Time: 12m 43s
+	Train Loss: 0.200
+	 Val. Loss: 0.153
+
+Epoch: 22 | Epoch Time: 13m 19s
+	Train Loss: 0.204
+	 Val. Loss: 0.217
+
+Epoch: 23 | Epoch Time: 13m 55s
+	Train Loss: 0.199
+	 Val. Loss: 0.154
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 24 | Epoch Time: 14m 31s
+	Train Loss: 0.173
+	 Val. Loss: 0.139
+
+Epoch: 25 | Epoch Time: 15m 7s
+	Train Loss: 0.170
+	 Val. Loss: 0.143
+
+Epoch: 26 | Epoch Time: 15m 43s
+	Train Loss: 0.172
+	 Val. Loss: 0.163
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 27 | Epoch Time: 16m 19s
+	Train Loss: 0.157
+	 Val. Loss: 0.134
+
+Epoch: 28 | Epoch Time: 16m 55s
+	Train Loss: 0.158
+	 Val. Loss: 0.148
+
+Epoch: 29 | Epoch Time: 17m 31s
+	Train Loss: 0.154
+	 Val. Loss: 0.182
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 30 | Epoch Time: 18m 7s
+	Train Loss: 0.141
+	 Val. Loss: 0.118
+
+Epoch: 31 | Epoch Time: 18m 43s
+	Train Loss: 0.156
+	 Val. Loss: 0.121
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 32 | Epoch Time: 19m 19s
+	Train Loss: 0.145
+	 Val. Loss: 0.113
+
+Epoch: 33 | Epoch Time: 19m 55s
+	Train Loss: 0.133
+	 Val. Loss: 0.194
+
+Epoch: 34 | Epoch Time: 20m 31s
+	Train Loss: 0.136
+	 Val. Loss: 0.122
+
+Epoch: 35 | Epoch Time: 21m 7s
+	Train Loss: 0.141
+	 Val. Loss: 0.119
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 36 | Epoch Time: 21m 43s
+	Train Loss: 0.127
+	 Val. Loss: 0.105
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 37 | Epoch Time: 22m 19s
+	Train Loss: 0.131
+	 Val. Loss: 0.084
+
+Epoch: 38 | Epoch Time: 22m 55s
+	Train Loss: 0.115
+	 Val. Loss: 0.090
+
+Epoch: 39 | Epoch Time: 23m 31s
+	Train Loss: 0.115
+	 Val. Loss: 0.107
+
+Epoch: 40 | Epoch Time: 24m 7s
+	Train Loss: 0.125
+	 Val. Loss: 0.109
+
+Epoch: 41 | Epoch Time: 24m 43s
+	Train Loss: 0.113
+	 Val. Loss: 0.097
+
+Epoch: 42 | Epoch Time: 25m 19s
+	Train Loss: 0.117
+	 Val. Loss: 0.096
+
+Epoch: 43 | Epoch Time: 25m 54s
+	Train Loss: 0.111
+	 Val. Loss: 0.089
+
+Epoch: 44 | Epoch Time: 26m 30s
+	Train Loss: 0.115
+	 Val. Loss: 0.094
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 45 | Epoch Time: 27m 6s
+	Train Loss: 0.098
+	 Val. Loss: 0.080
+
+Epoch: 46 | Epoch Time: 27m 42s
+	Train Loss: 0.102
+	 Val. Loss: 0.089
+
+Epoch: 47 | Epoch Time: 28m 18s
+	Train Loss: 0.126
+	 Val. Loss: 0.106
+
+Epoch: 48 | Epoch Time: 28m 54s
+	Train Loss: 0.109
+	 Val. Loss: 0.087
+
+Epoch: 49 | Epoch Time: 29m 30s
+	Train Loss: 0.097
+	 Val. Loss: 0.084
+
+Epoch: 50 | Epoch Time: 30m 6s
+	Train Loss: 0.110
+	 Val. Loss: 0.179
+
+Epoch: 51 | Epoch Time: 30m 42s
+	Train Loss: 0.116
+	 Val. Loss: 0.110
+
+Epoch: 52 | Epoch Time: 31m 18s
+	Train Loss: 0.102
+	 Val. Loss: 0.092
+
+Epoch: 53 | Epoch Time: 31m 54s
+	Train Loss: 0.113
+	 Val. Loss: 0.111
+
+Epoch: 54 | Epoch Time: 32m 30s
+	Train Loss: 0.091
+	 Val. Loss: 0.087
+
+Epoch: 55 | Epoch Time: 33m 6s
+	Train Loss: 0.090
+	 Val. Loss: 0.089
+
+Epoch: 56 | Epoch Time: 33m 42s
+	Train Loss: 0.093
+	 Val. Loss: 0.082
+
+Epoch: 57 | Epoch Time: 34m 18s
+	Train Loss: 0.101
+	 Val. Loss: 0.106
+
+Epoch: 58 | Epoch Time: 34m 54s
+	Train Loss: 0.106
+	 Val. Loss: 0.085
+
+Epoch: 59 | Epoch Time: 35m 29s
+	Train Loss: 0.087
+	 Val. Loss: 0.086
+
+Epoch: 60 | Epoch Time: 36m 5s
+	Train Loss: 0.098
+	 Val. Loss: 0.084
+
+Epoch: 61 | Epoch Time: 36m 41s
+	Train Loss: 0.084
+	 Val. Loss: 0.089
+
+Epoch: 62 | Epoch Time: 37m 17s
+	Train Loss: 0.096
+	 Val. Loss: 0.088
+
+Epoch: 63 | Epoch Time: 37m 53s
+	Train Loss: 0.089
+	 Val. Loss: 0.128
+
+Epoch: 64 | Epoch Time: 38m 29s
+	Train Loss: 0.089
+	 Val. Loss: 0.088
+
+Epoch: 65 | Epoch Time: 39m 5s
+	Train Loss: 0.091
+	 Val. Loss: 0.118
+
+Epoch: 66 | Epoch Time: 39m 41s
+	Train Loss: 0.095
+	 Val. Loss: 0.090
+
+Epoch: 67 | Epoch Time: 40m 17s
+	Train Loss: 0.083
+	 Val. Loss: 0.092
+
+Epoch: 68 | Epoch Time: 40m 53s
+	Train Loss: 0.082
+	 Val. Loss: 0.090
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 69 | Epoch Time: 41m 29s
+	Train Loss: 0.074
+	 Val. Loss: 0.077
+
+Epoch: 70 | Epoch Time: 42m 5s
+	Train Loss: 0.075
+	 Val. Loss: 0.100
+
+Epoch: 71 | Epoch Time: 42m 41s
+	Train Loss: 0.085
+	 Val. Loss: 0.081
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 72 | Epoch Time: 43m 17s
+	Train Loss: 0.074
+	 Val. Loss: 0.076
+
+Epoch: 73 | Epoch Time: 43m 53s
+	Train Loss: 0.073
+	 Val. Loss: 0.077
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 74 | Epoch Time: 44m 29s
+	Train Loss: 0.081
+	 Val. Loss: 0.070
+
+Epoch: 75 | Epoch Time: 45m 5s
+	Train Loss: 0.099
+	 Val. Loss: 0.084
+
+Epoch: 76 | Epoch Time: 45m 41s
+	Train Loss: 0.077
+	 Val. Loss: 0.093
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 77 | Epoch Time: 46m 17s
+	Train Loss: 0.067
+	 Val. Loss: 0.068
+
+Epoch: 78 | Epoch Time: 46m 52s
+	Train Loss: 0.066
+	 Val. Loss: 0.071
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 79 | Epoch Time: 47m 28s
+	Train Loss: 0.075
+	 Val. Loss: 0.067
+
+Epoch: 80 | Epoch Time: 48m 4s
+	Train Loss: 0.079
+	 Val. Loss: 0.087
+
+Epoch: 81 | Epoch Time: 48m 40s
+	Train Loss: 0.095
+	 Val. Loss: 0.092
+
+Epoch: 82 | Epoch Time: 49m 16s
+	Train Loss: 0.096
+	 Val. Loss: 0.092
+
+Epoch: 83 | Epoch Time: 49m 52s
+	Train Loss: 0.076
+	 Val. Loss: 0.080
+
+Epoch: 84 | Epoch Time: 50m 28s
+	Train Loss: 0.074
+	 Val. Loss: 0.074
+
+Epoch: 85 | Epoch Time: 51m 4s
+	Train Loss: 0.070
+	 Val. Loss: 0.085
+
+Epoch: 86 | Epoch Time: 51m 40s
+	Train Loss: 0.086
+	 Val. Loss: 0.108
+
+Epoch: 87 | Epoch Time: 52m 16s
+	Train Loss: 0.074
+	 Val. Loss: 0.083
+
+Epoch: 88 | Epoch Time: 52m 52s
+	Train Loss: 0.066
+	 Val. Loss: 0.068
+
+Epoch: 89 | Epoch Time: 53m 28s
+	Train Loss: 0.067
+	 Val. Loss: 0.101
+
+Epoch: 90 | Epoch Time: 54m 4s
+	Train Loss: 0.075
+	 Val. Loss: 0.090
+
+Epoch: 91 | Epoch Time: 54m 40s
+	Train Loss: 0.079
+	 Val. Loss: 0.082
+
+Epoch: 92 | Epoch Time: 55m 15s
+	Train Loss: 0.070
+	 Val. Loss: 0.071
+
+Epoch: 93 | Epoch Time: 55m 51s
+	Train Loss: 0.069
+	 Val. Loss: 0.075
+
+Epoch: 94 | Epoch Time: 56m 27s
+	Train Loss: 0.082
+	 Val. Loss: 0.090
+
+Epoch: 95 | Epoch Time: 57m 3s
+	Train Loss: 0.066
+	 Val. Loss: 0.075
+
+Epoch: 96 | Epoch Time: 57m 39s
+	Train Loss: 0.066
+	 Val. Loss: 0.080
+
+Epoch: 97 | Epoch Time: 58m 15s
+	Train Loss: 0.055
+	 Val. Loss: 0.086
+
+Epoch: 98 | Epoch Time: 58m 51s
+	Train Loss: 0.078
+	 Val. Loss: 0.096
+
+Epoch: 99 | Epoch Time: 59m 27s
+	Train Loss: 0.074
+	 Val. Loss: 0.119
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 100 | Epoch Time: 60m 3s
+	Train Loss: 0.075
+	 Val. Loss: 0.065
+
+Epoch: 101 | Epoch Time: 60m 39s
+	Train Loss: 0.067
+	 Val. Loss: 0.070
+
+Epoch: 102 | Epoch Time: 61m 15s
+	Train Loss: 0.084
+	 Val. Loss: 0.098
+
+Epoch: 103 | Epoch Time: 61m 51s
+	Train Loss: 0.083
+	 Val. Loss: 0.073
+
+Epoch: 104 | Epoch Time: 62m 27s
+	Train Loss: 0.068
+	 Val. Loss: 0.068
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 105 | Epoch Time: 63m 3s
+	Train Loss: 0.057
+	 Val. Loss: 0.065
+
+Epoch: 106 | Epoch Time: 63m 39s
+	Train Loss: 0.056
+	 Val. Loss: 0.072
+
+Epoch: 107 | Epoch Time: 64m 15s
+	Train Loss: 0.056
+	 Val. Loss: 0.071
+
+Epoch: 108 | Epoch Time: 64m 51s
+	Train Loss: 0.059
+	 Val. Loss: 0.067
+
+Epoch: 109 | Epoch Time: 65m 26s
+	Train Loss: 0.069
+	 Val. Loss: 0.072
+
+Epoch: 110 | Epoch Time: 66m 2s
+	Train Loss: 0.061
+	 Val. Loss: 0.080
+
+Epoch: 111 | Epoch Time: 66m 38s
+	Train Loss: 0.055
+	 Val. Loss: 0.068
+
+Epoch: 112 | Epoch Time: 67m 14s
+	Train Loss: 0.056
+	 Val. Loss: 0.086
+
+Epoch: 113 | Epoch Time: 67m 50s
+	Train Loss: 0.057
+	 Val. Loss: 0.093
+
+Epoch: 114 | Epoch Time: 68m 26s
+	Train Loss: 0.055
+	 Val. Loss: 0.085
+
+Epoch: 115 | Epoch Time: 69m 2s
+	Train Loss: 0.054
+	 Val. Loss: 0.091
+
+Epoch: 116 | Epoch Time: 69m 38s
+	Train Loss: 0.064
+	 Val. Loss: 0.090
+
+Epoch: 117 | Epoch Time: 70m 14s
+	Train Loss: 0.061
+	 Val. Loss: 0.066
+
+Epoch: 118 | Epoch Time: 70m 50s
+	Train Loss: 0.075
+	 Val. Loss: 0.068
+
+Epoch: 119 | Epoch Time: 71m 26s
+	Train Loss: 0.061
+	 Val. Loss: 0.072
+
+Epoch: 120 | Epoch Time: 72m 2s
+	Train Loss: 0.057
+	 Val. Loss: 0.070
+
+Epoch: 121 | Epoch Time: 72m 38s
+	Train Loss: 0.068
+	 Val. Loss: 0.078
+
+Epoch: 122 | Epoch Time: 73m 14s
+	Train Loss: 0.060
+	 Val. Loss: 0.065
+
+Epoch: 123 | Epoch Time: 73m 50s
+	Train Loss: 0.058
+	 Val. Loss: 0.076
+
+Epoch: 124 | Epoch Time: 74m 26s
+	Train Loss: 0.057
+	 Val. Loss: 0.066
+
+Epoch: 125 | Epoch Time: 75m 2s
+	Train Loss: 0.067
+	 Val. Loss: 0.087
+
+Epoch: 126 | Epoch Time: 75m 37s
+	Train Loss: 0.066
+	 Val. Loss: 0.072
+
+Epoch: 127 | Epoch Time: 76m 13s
+	Train Loss: 0.057
+	 Val. Loss: 0.072
+
+Epoch: 128 | Epoch Time: 76m 49s
+	Train Loss: 0.054
+	 Val. Loss: 0.068
+
+Epoch: 129 | Epoch Time: 77m 25s
+	Train Loss: 0.054
+	 Val. Loss: 0.065
+
+Epoch: 130 | Epoch Time: 78m 2s
+	Train Loss: 0.052
+	 Val. Loss: 0.070
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 131 | Epoch Time: 78m 38s
+	Train Loss: 0.056
+	 Val. Loss: 0.064
+
+Epoch: 132 | Epoch Time: 79m 14s
+	Train Loss: 0.063
+	 Val. Loss: 0.073
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 133 | Epoch Time: 79m 50s
+	Train Loss: 0.062
+	 Val. Loss: 0.062
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 134 | Epoch Time: 80m 26s
+	Train Loss: 0.069
+	 Val. Loss: 0.060
+
+Epoch: 135 | Epoch Time: 81m 2s
+	Train Loss: 0.057
+	 Val. Loss: 0.065
+
+Epoch: 136 | Epoch Time: 81m 38s
+	Train Loss: 0.077
+	 Val. Loss: 0.072
+
+Epoch: 137 | Epoch Time: 82m 13s
+	Train Loss: 0.065
+	 Val. Loss: 0.076
+
+Epoch: 138 | Epoch Time: 82m 49s
+	Train Loss: 0.056
+	 Val. Loss: 0.074
+
+Epoch: 139 | Epoch Time: 83m 25s
+	Train Loss: 0.058
+	 Val. Loss: 0.066
+
+Epoch: 140 | Epoch Time: 84m 1s
+	Train Loss: 0.051
+	 Val. Loss: 0.073
+
+Epoch: 141 | Epoch Time: 84m 37s
+	Train Loss: 0.054
+	 Val. Loss: 0.060
+
+Epoch: 142 | Epoch Time: 85m 13s
+	Train Loss: 0.054
+	 Val. Loss: 0.066
+
+Epoch: 143 | Epoch Time: 85m 49s
+	Train Loss: 0.067
+	 Val. Loss: 0.070
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 144 | Epoch Time: 86m 25s
+	Train Loss: 0.050
+	 Val. Loss: 0.059
+
+Epoch: 145 | Epoch Time: 87m 1s
+	Train Loss: 0.053
+	 Val. Loss: 0.074
+
+Epoch: 146 | Epoch Time: 87m 37s
+	Train Loss: 0.058
+	 Val. Loss: 0.068
+
+Epoch: 147 | Epoch Time: 88m 13s
+	Train Loss: 0.063
+	 Val. Loss: 0.076
+
+Epoch: 148 | Epoch Time: 88m 49s
+	Train Loss: 0.056
+	 Val. Loss: 0.063
+
+Epoch: 149 | Epoch Time: 89m 25s
+	Train Loss: 0.047
+	 Val. Loss: 0.060
+
+Epoch: 150 | Epoch Time: 90m 1s
+	Train Loss: 0.047
+	 Val. Loss: 0.059
+
+Epoch: 151 | Epoch Time: 90m 37s
+	Train Loss: 0.058
+	 Val. Loss: 0.067
+
+Epoch: 152 | Epoch Time: 91m 13s
+	Train Loss: 0.059
+	 Val. Loss: 0.067
+
+Epoch: 153 | Epoch Time: 91m 49s
+	Train Loss: 0.053
+	 Val. Loss: 0.072
+
+Epoch: 154 | Epoch Time: 92m 25s
+	Train Loss: 0.057
+	 Val. Loss: 0.073
+
+Epoch: 155 | Epoch Time: 93m 1s
+	Train Loss: 0.051
+	 Val. Loss: 0.060
+
+Epoch: 156 | Epoch Time: 93m 37s
+	Train Loss: 0.048
+	 Val. Loss: 0.074
+
+Epoch: 157 | Epoch Time: 94m 13s
+	Train Loss: 0.054
+	 Val. Loss: 0.070
+
+Epoch: 158 | Epoch Time: 94m 48s
+	Train Loss: 0.052
+	 Val. Loss: 0.065
+
+Epoch: 159 | Epoch Time: 95m 24s
+	Train Loss: 0.048
+	 Val. Loss: 0.062
+
+Epoch: 160 | Epoch Time: 96m 0s
+	Train Loss: 0.047
+	 Val. Loss: 0.063
+
+Epoch: 161 | Epoch Time: 96m 36s
+	Train Loss: 0.045
+	 Val. Loss: 0.061
+
+Epoch: 162 | Epoch Time: 97m 12s
+	Train Loss: 0.048
+	 Val. Loss: 0.066
+
+Epoch: 163 | Epoch Time: 97m 48s
+	Train Loss: 0.056
+	 Val. Loss: 0.070
+
+Epoch: 164 | Epoch Time: 98m 24s
+	Train Loss: 0.050
+	 Val. Loss: 0.087
+
+Epoch: 165 | Epoch Time: 99m 0s
+	Train Loss: 0.055
+	 Val. Loss: 0.067
+
+Epoch: 166 | Epoch Time: 99m 36s
+	Train Loss: 0.056
+	 Val. Loss: 0.068
+
+Epoch: 167 | Epoch Time: 100m 12s
+	Train Loss: 0.071
+	 Val. Loss: 0.071
+
+Epoch: 168 | Epoch Time: 100m 48s
+	Train Loss: 0.059
+	 Val. Loss: 0.060
+
+Epoch: 169 | Epoch Time: 101m 24s
+	Train Loss: 0.055
+	 Val. Loss: 0.062
+
+Epoch: 170 | Epoch Time: 102m 0s
+	Train Loss: 0.049
+	 Val. Loss: 0.066
+
+Epoch: 171 | Epoch Time: 102m 36s
+	Train Loss: 0.048
+	 Val. Loss: 0.060
+
+Epoch: 172 | Epoch Time: 103m 12s
+	Train Loss: 0.041
+	 Val. Loss: 0.060
+
+Epoch: 173 | Epoch Time: 103m 48s
+	Train Loss: 0.044
+	 Val. Loss: 0.067
+
+Epoch: 174 | Epoch Time: 104m 24s
+	Train Loss: 0.055
+	 Val. Loss: 0.087
+
+Epoch: 175 | Epoch Time: 105m 0s
+	Train Loss: 0.058
+	 Val. Loss: 0.097
+
+Epoch: 176 | Epoch Time: 105m 36s
+	Train Loss: 0.054
+	 Val. Loss: 0.071
+
+Epoch: 177 | Epoch Time: 106m 12s
+	Train Loss: 0.068
+	 Val. Loss: 0.092
+
+Epoch: 178 | Epoch Time: 106m 47s
+	Train Loss: 0.060
+	 Val. Loss: 0.068
+
+Epoch: 179 | Epoch Time: 107m 23s
+	Train Loss: 0.051
+	 Val. Loss: 0.075
+
+Epoch: 180 | Epoch Time: 107m 59s
+	Train Loss: 0.047
+	 Val. Loss: 0.063
+
+Epoch: 181 | Epoch Time: 108m 35s
+	Train Loss: 0.048
+	 Val. Loss: 0.069
+
+Epoch: 182 | Epoch Time: 109m 11s
+	Train Loss: 0.045
+	 Val. Loss: 0.075
+
+Epoch: 183 | Epoch Time: 109m 47s
+	Train Loss: 0.041
+	 Val. Loss: 0.059
+
+Epoch: 184 | Epoch Time: 110m 23s
+	Train Loss: 0.042
+	 Val. Loss: 0.061
+
+Epoch: 185 | Epoch Time: 110m 59s
+	Train Loss: 0.043
+	 Val. Loss: 0.068
+
+Epoch: 186 | Epoch Time: 111m 35s
+	Train Loss: 0.044
+	 Val. Loss: 0.069
+
+Epoch: 187 | Epoch Time: 112m 11s
+	Train Loss: 0.046
+	 Val. Loss: 0.063
+
+Epoch: 188 | Epoch Time: 112m 47s
+	Train Loss: 0.043
+	 Val. Loss: 0.059
+
+Epoch: 189 | Epoch Time: 113m 23s
+	Train Loss: 0.041
+	 Val. Loss: 0.061
+
+Epoch: 190 | Epoch Time: 113m 59s
+	Train Loss: 0.042
+	 Val. Loss: 0.060
+
+Epoch: 191 | Epoch Time: 114m 35s
+	Train Loss: 0.044
+	 Val. Loss: 0.076
+
+Epoch: 192 | Epoch Time: 115m 11s
+	Train Loss: 0.051
+	 Val. Loss: 0.105
+
+Epoch: 193 | Epoch Time: 115m 47s
+	Train Loss: 0.060
+	 Val. Loss: 0.076
+
+Epoch: 194 | Epoch Time: 116m 23s
+	Train Loss: 0.045
+	 Val. Loss: 0.071
+
+Epoch: 195 | Epoch Time: 116m 59s
+	Train Loss: 0.060
+	 Val. Loss: 0.060
+
+Epoch: 196 | Epoch Time: 117m 35s
+	Train Loss: 0.056
+	 Val. Loss: 0.085
+
+Epoch: 197 | Epoch Time: 118m 11s
+	Train Loss: 0.061
+	 Val. Loss: 0.129
+
+Epoch: 198 | Epoch Time: 118m 47s
+	Train Loss: 0.052
+	 Val. Loss: 0.061
+
+Epoch: 199 | Epoch Time: 119m 23s
+	Train Loss: 0.046
+	 Val. Loss: 0.064
+
+Epoch: 200 | Epoch Time: 119m 59s
+	Train Loss: 0.043
+	 Val. Loss: 0.062
+
+Epoch: 201 | Epoch Time: 120m 35s
+	Train Loss: 0.054
+	 Val. Loss: 0.091
+
+Epoch: 202 | Epoch Time: 121m 11s
+	Train Loss: 0.062
+	 Val. Loss: 0.077
+
+Epoch: 203 | Epoch Time: 121m 47s
+	Train Loss: 0.052
+	 Val. Loss: 0.077
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 204 | Epoch Time: 122m 23s
+	Train Loss: 0.060
+	 Val. Loss: 0.057
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 205 | Epoch Time: 122m 59s
+	Train Loss: 0.043
+	 Val. Loss: 0.055
+
+Epoch: 206 | Epoch Time: 123m 34s
+	Train Loss: 0.048
+	 Val. Loss: 0.059
+
+Epoch: 207 | Epoch Time: 124m 10s
+	Train Loss: 0.042
+	 Val. Loss: 0.059
+
+Epoch: 208 | Epoch Time: 124m 46s
+	Train Loss: 0.043
+	 Val. Loss: 0.062
+
+Epoch: 209 | Epoch Time: 125m 22s
+	Train Loss: 0.041
+	 Val. Loss: 0.057
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 210 | Epoch Time: 125m 58s
+	Train Loss: 0.041
+	 Val. Loss: 0.053
+
+Epoch: 211 | Epoch Time: 126m 34s
+	Train Loss: 0.040
+	 Val. Loss: 0.066
+
+Epoch: 212 | Epoch Time: 127m 10s
+	Train Loss: 0.044
+	 Val. Loss: 0.058
+
+Epoch: 213 | Epoch Time: 127m 46s
+	Train Loss: 0.044
+	 Val. Loss: 0.059
+
+Epoch: 214 | Epoch Time: 128m 22s
+	Train Loss: 0.047
+	 Val. Loss: 0.056
+
+Epoch: 215 | Epoch Time: 128m 58s
+	Train Loss: 0.043
+	 Val. Loss: 0.062
+
+Epoch: 216 | Epoch Time: 129m 34s
+	Train Loss: 0.051
+	 Val. Loss: 0.073
+
+Epoch: 217 | Epoch Time: 130m 10s
+	Train Loss: 0.052
+	 Val. Loss: 0.067
+
+Epoch: 218 | Epoch Time: 130m 46s
+	Train Loss: 0.043
+	 Val. Loss: 0.069
+
+Epoch: 219 | Epoch Time: 131m 22s
+	Train Loss: 0.065
+	 Val. Loss: 0.092
+
+Epoch: 220 | Epoch Time: 131m 58s
+	Train Loss: 0.060
+	 Val. Loss: 0.068
+
+Epoch: 221 | Epoch Time: 132m 34s
+	Train Loss: 0.050
+	 Val. Loss: 0.063
+
+Epoch: 222 | Epoch Time: 133m 10s
+	Train Loss: 0.050
+	 Val. Loss: 0.078
+
+Epoch: 223 | Epoch Time: 133m 46s
+	Train Loss: 0.043
+	 Val. Loss: 0.074
+
+Epoch: 224 | Epoch Time: 134m 22s
+	Train Loss: 0.042
+	 Val. Loss: 0.071
+
+Epoch: 225 | Epoch Time: 134m 58s
+	Train Loss: 0.043
+	 Val. Loss: 0.060
+
+Epoch: 226 | Epoch Time: 135m 34s
+	Train Loss: 0.052
+	 Val. Loss: 0.069
+
+Epoch: 227 | Epoch Time: 136m 10s
+	Train Loss: 0.042
+	 Val. Loss: 0.060
+
+Epoch: 228 | Epoch Time: 136m 46s
+	Train Loss: 0.039
+	 Val. Loss: 0.065
+
+Epoch: 229 | Epoch Time: 137m 22s
+	Train Loss: 0.041
+	 Val. Loss: 0.070
+
+Epoch: 230 | Epoch Time: 137m 58s
+	Train Loss: 0.039
+	 Val. Loss: 0.067
+
+Epoch: 231 | Epoch Time: 138m 34s
+	Train Loss: 0.041
+	 Val. Loss: 0.066
+
+Epoch: 232 | Epoch Time: 139m 9s
+	Train Loss: 0.040
+	 Val. Loss: 0.054
+
+Epoch: 233 | Epoch Time: 139m 45s
+	Train Loss: 0.038
+	 Val. Loss: 0.060
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 234 | Epoch Time: 140m 21s
+	Train Loss: 0.043
+	 Val. Loss: 0.050
+
+Epoch: 235 | Epoch Time: 140m 57s
+	Train Loss: 0.051
+	 Val. Loss: 0.095
+
+Epoch: 236 | Epoch Time: 141m 33s
+	Train Loss: 0.051
+	 Val. Loss: 0.060
+
+Epoch: 237 | Epoch Time: 142m 9s
+	Train Loss: 0.041
+	 Val. Loss: 0.055
+
+Epoch: 238 | Epoch Time: 142m 45s
+	Train Loss: 0.048
+	 Val. Loss: 0.107
+
+Epoch: 239 | Epoch Time: 143m 21s
+	Train Loss: 0.038
+	 Val. Loss: 0.058
+
+Epoch: 240 | Epoch Time: 143m 57s
+	Train Loss: 0.036
+	 Val. Loss: 0.057
+
+Epoch: 241 | Epoch Time: 144m 33s
+	Train Loss: 0.037
+	 Val. Loss: 0.060
+
+Epoch: 242 | Epoch Time: 145m 9s
+	Train Loss: 0.040
+	 Val. Loss: 0.061
+
+Epoch: 243 | Epoch Time: 145m 45s
+	Train Loss: 0.048
+	 Val. Loss: 0.067
+
+Epoch: 244 | Epoch Time: 146m 21s
+	Train Loss: 0.041
+	 Val. Loss: 0.057
+
+Epoch: 245 | Epoch Time: 146m 57s
+	Train Loss: 0.037
+	 Val. Loss: 0.065
+
+Epoch: 246 | Epoch Time: 147m 33s
+	Train Loss: 0.043
+	 Val. Loss: 0.062
+
+Epoch: 247 | Epoch Time: 148m 9s
+	Train Loss: 0.050
+	 Val. Loss: 0.078
+
+Epoch: 248 | Epoch Time: 148m 45s
+	Train Loss: 0.055
+	 Val. Loss: 0.076
+
+Epoch: 249 | Epoch Time: 149m 21s
+	Train Loss: 0.047
+	 Val. Loss: 0.067
+
+Epoch: 250 | Epoch Time: 149m 57s
+	Train Loss: 0.040
+	 Val. Loss: 0.064
+
+Epoch: 251 | Epoch Time: 150m 33s
+	Train Loss: 0.055
+	 Val. Loss: 0.073
+
+Epoch: 252 | Epoch Time: 151m 9s
+	Train Loss: 0.053
+	 Val. Loss: 0.061
+
+Epoch: 253 | Epoch Time: 151m 45s
+	Train Loss: 0.050
+	 Val. Loss: 0.061
+
+Epoch: 254 | Epoch Time: 152m 21s
+	Train Loss: 0.040
+	 Val. Loss: 0.058
+
+Epoch: 255 | Epoch Time: 152m 57s
+	Train Loss: 0.039
+	 Val. Loss: 0.066
+
+Epoch: 256 | Epoch Time: 153m 33s
+	Train Loss: 0.042
+	 Val. Loss: 0.062
+
+Epoch: 257 | Epoch Time: 154m 9s
+	Train Loss: 0.038
+	 Val. Loss: 0.060
+
+Epoch: 258 | Epoch Time: 154m 45s
+	Train Loss: 0.038
+	 Val. Loss: 0.061
+
+Epoch: 259 | Epoch Time: 155m 21s
+	Train Loss: 0.035
+	 Val. Loss: 0.066
+
+Epoch: 260 | Epoch Time: 155m 57s
+	Train Loss: 0.037
+	 Val. Loss: 0.058
+
+Epoch: 261 | Epoch Time: 156m 33s
+	Train Loss: 0.039
+	 Val. Loss: 0.059
+
+Epoch: 262 | Epoch Time: 157m 9s
+	Train Loss: 0.040
+	 Val. Loss: 0.061
+
+Epoch: 263 | Epoch Time: 157m 45s
+	Train Loss: 0.038
+	 Val. Loss: 0.079
+
+Epoch: 264 | Epoch Time: 158m 20s
+	Train Loss: 0.040
+	 Val. Loss: 0.068
+
+Epoch: 265 | Epoch Time: 158m 56s
+	Train Loss: 0.036
+	 Val. Loss: 0.069
+
+Epoch: 266 | Epoch Time: 159m 32s
+	Train Loss: 0.056
+	 Val. Loss: 0.073
+
+Epoch: 267 | Epoch Time: 160m 8s
+	Train Loss: 0.058
+	 Val. Loss: 0.066
+
+Epoch: 268 | Epoch Time: 160m 44s
+	Train Loss: 0.045
+	 Val. Loss: 0.059
+
+Epoch: 269 | Epoch Time: 161m 20s
+	Train Loss: 0.039
+	 Val. Loss: 0.055
+
+Epoch: 270 | Epoch Time: 161m 56s
+	Train Loss: 0.041
+	 Val. Loss: 0.057
+
+Epoch: 271 | Epoch Time: 162m 32s
+	Train Loss: 0.036
+	 Val. Loss: 0.059
+
+Epoch: 272 | Epoch Time: 163m 8s
+	Train Loss: 0.036
+	 Val. Loss: 0.064
+
+Epoch: 273 | Epoch Time: 163m 44s
+	Train Loss: 0.053
+	 Val. Loss: 0.121
+
+Epoch: 274 | Epoch Time: 164m 20s
+	Train Loss: 0.056
+	 Val. Loss: 0.073
+
+Epoch: 275 | Epoch Time: 164m 56s
+	Train Loss: 0.050
+	 Val. Loss: 0.065
+
+Epoch: 276 | Epoch Time: 165m 32s
+	Train Loss: 0.040
+	 Val. Loss: 0.055
+
+Epoch: 277 | Epoch Time: 166m 8s
+	Train Loss: 0.041
+	 Val. Loss: 0.061
+
+Epoch: 278 | Epoch Time: 166m 44s
+	Train Loss: 0.037
+	 Val. Loss: 0.053
+
+Epoch: 279 | Epoch Time: 167m 20s
+	Train Loss: 0.042
+	 Val. Loss: 0.057
+
+Epoch: 280 | Epoch Time: 167m 56s
+	Train Loss: 0.042
+	 Val. Loss: 0.063
+
+Epoch: 281 | Epoch Time: 168m 32s
+	Train Loss: 0.049
+	 Val. Loss: 0.084
+
+Epoch: 282 | Epoch Time: 169m 8s
+	Train Loss: 0.053
+	 Val. Loss: 0.067
+
+Epoch: 283 | Epoch Time: 169m 44s
+	Train Loss: 0.048
+	 Val. Loss: 0.058
+
+Epoch: 284 | Epoch Time: 170m 20s
+	Train Loss: 0.047
+	 Val. Loss: 0.056
+
+Epoch: 285 | Epoch Time: 170m 56s
+	Train Loss: 0.038
+	 Val. Loss: 0.057
+
+Epoch: 286 | Epoch Time: 171m 32s
+	Train Loss: 0.035
+	 Val. Loss: 0.055
+
+Epoch: 287 | Epoch Time: 172m 8s
+	Train Loss: 0.035
+	 Val. Loss: 0.059
+
+Epoch: 288 | Epoch Time: 172m 44s
+	Train Loss: 0.036
+	 Val. Loss: 0.053
+
+Epoch: 289 | Epoch Time: 173m 20s
+	Train Loss: 0.036
+	 Val. Loss: 0.053
+
+Epoch: 290 | Epoch Time: 173m 56s
+	Train Loss: 0.037
+	 Val. Loss: 0.051
+
+Epoch: 291 | Epoch Time: 174m 32s
+	Train Loss: 0.035
+	 Val. Loss: 0.055
+
+Epoch: 292 | Epoch Time: 175m 8s
+	Train Loss: 0.035
+	 Val. Loss: 0.053
+
+Epoch: 293 | Epoch Time: 175m 44s
+	Train Loss: 0.035
+	 Val. Loss: 0.050
+
+Epoch: 294 | Epoch Time: 176m 20s
+	Train Loss: 0.034
+	 Val. Loss: 0.056
+
+Epoch: 295 | Epoch Time: 176m 56s
+	Train Loss: 0.034
+	 Val. Loss: 0.053
+
+Epoch: 296 | Epoch Time: 177m 31s
+	Train Loss: 0.035
+	 Val. Loss: 0.050
+
+Epoch: 297 | Epoch Time: 178m 7s
+	Train Loss: 0.037
+	 Val. Loss: 0.056
+
+Epoch: 298 | Epoch Time: 178m 43s
+	Train Loss: 0.040
+	 Val. Loss: 0.074
+
+Epoch: 299 | Epoch Time: 179m 19s
+	Train Loss: 0.038
+	 Val. Loss: 0.066
+
+Epoch: 300 | Epoch Time: 179m 55s
+	Train Loss: 0.036
+	 Val. Loss: 0.062
+
+Epoch: 301 | Epoch Time: 180m 31s
+	Train Loss: 0.034
+	 Val. Loss: 0.052
+
+Epoch: 302 | Epoch Time: 181m 7s
+	Train Loss: 0.036
+	 Val. Loss: 0.067
+
+Epoch: 303 | Epoch Time: 181m 43s
+	Train Loss: 0.039
+	 Val. Loss: 0.058
+
+Epoch: 304 | Epoch Time: 182m 19s
+	Train Loss: 0.035
+	 Val. Loss: 0.058
+
+Epoch: 305 | Epoch Time: 182m 55s
+	Train Loss: 0.035
+	 Val. Loss: 0.059
+
+Epoch: 306 | Epoch Time: 183m 31s
+	Train Loss: 0.035
+	 Val. Loss: 0.066
+
+Epoch: 307 | Epoch Time: 184m 7s
+	Train Loss: 0.035
+	 Val. Loss: 0.056
+
+Epoch: 308 | Epoch Time: 184m 43s
+	Train Loss: 0.035
+	 Val. Loss: 0.058
+
+Epoch: 309 | Epoch Time: 185m 19s
+	Train Loss: 0.034
+	 Val. Loss: 0.060
+
+Epoch: 310 | Epoch Time: 185m 55s
+	Train Loss: 0.035
+	 Val. Loss: 0.063
+
+Epoch: 311 | Epoch Time: 186m 31s
+	Train Loss: 0.040
+	 Val. Loss: 0.056
+
+Epoch: 312 | Epoch Time: 187m 7s
+	Train Loss: 0.038
+	 Val. Loss: 0.058
+
+Epoch: 313 | Epoch Time: 187m 43s
+	Train Loss: 0.036
+	 Val. Loss: 0.053
+
+Epoch: 314 | Epoch Time: 188m 19s
+	Train Loss: 0.033
+	 Val. Loss: 0.052
+
+Epoch: 315 | Epoch Time: 188m 55s
+	Train Loss: 0.034
+	 Val. Loss: 0.086
+
+Epoch: 316 | Epoch Time: 189m 31s
+	Train Loss: 0.041
+	 Val. Loss: 0.064
+
+Epoch: 317 | Epoch Time: 190m 6s
+	Train Loss: 0.039
+	 Val. Loss: 0.058
+
+Epoch: 318 | Epoch Time: 190m 42s
+	Train Loss: 0.039
+	 Val. Loss: 0.053
+
+Epoch: 319 | Epoch Time: 191m 18s
+	Train Loss: 0.038
+	 Val. Loss: 0.057
+
+Epoch: 320 | Epoch Time: 191m 54s
+	Train Loss: 0.037
+	 Val. Loss: 0.061
+
+Epoch: 321 | Epoch Time: 192m 30s
+	Train Loss: 0.036
+	 Val. Loss: 0.060
+
+Epoch: 322 | Epoch Time: 193m 6s
+	Train Loss: 0.035
+	 Val. Loss: 0.055
+
+Epoch: 323 | Epoch Time: 193m 42s
+	Train Loss: 0.034
+	 Val. Loss: 0.060
+
+Epoch: 324 | Epoch Time: 194m 18s
+	Train Loss: 0.036
+	 Val. Loss: 0.065
+
+Epoch: 325 | Epoch Time: 194m 54s
+	Train Loss: 0.044
+	 Val. Loss: 0.078
+
+Epoch: 326 | Epoch Time: 195m 30s
+	Train Loss: 0.037
+	 Val. Loss: 0.068
+
+Epoch: 327 | Epoch Time: 196m 6s
+	Train Loss: 0.038
+	 Val. Loss: 0.062
+
+Epoch: 328 | Epoch Time: 196m 42s
+	Train Loss: 0.034
+	 Val. Loss: 0.052
+
+Epoch: 329 | Epoch Time: 197m 18s
+	Train Loss: 0.034
+	 Val. Loss: 0.055
+
+Epoch: 330 | Epoch Time: 197m 54s
+	Train Loss: 0.032
+	 Val. Loss: 0.053
+
+Epoch: 331 | Epoch Time: 198m 30s
+	Train Loss: 0.034
+	 Val. Loss: 0.057
+
+Epoch: 332 | Epoch Time: 199m 6s
+	Train Loss: 0.034
+	 Val. Loss: 0.078
+
+Epoch: 333 | Epoch Time: 199m 42s
+	Train Loss: 0.036
+	 Val. Loss: 0.060
+
+Epoch: 334 | Epoch Time: 200m 18s
+	Train Loss: 0.033
+	 Val. Loss: 0.060
+
+Epoch: 335 | Epoch Time: 200m 54s
+	Train Loss: 0.050
+	 Val. Loss: 0.122
+
+Epoch: 336 | Epoch Time: 201m 30s
+	Train Loss: 0.061
+	 Val. Loss: 0.087
+
+Epoch: 337 | Epoch Time: 202m 6s
+	Train Loss: 0.052
+	 Val. Loss: 0.061
+
+Epoch: 338 | Epoch Time: 202m 41s
+	Train Loss: 0.036
+	 Val. Loss: 0.060
+
+Epoch: 339 | Epoch Time: 203m 17s
+	Train Loss: 0.038
+	 Val. Loss: 0.058
+
+Epoch: 340 | Epoch Time: 203m 53s
+	Train Loss: 0.036
+	 Val. Loss: 0.067
+
+Epoch: 341 | Epoch Time: 204m 29s
+	Train Loss: 0.033
+	 Val. Loss: 0.065
+
+Epoch: 342 | Epoch Time: 205m 5s
+	Train Loss: 0.032
+	 Val. Loss: 0.064
+
+Epoch: 343 | Epoch Time: 205m 41s
+	Train Loss: 0.032
+	 Val. Loss: 0.060
+
+Epoch: 344 | Epoch Time: 206m 17s
+	Train Loss: 0.031
+	 Val. Loss: 0.073
+
+Epoch: 345 | Epoch Time: 206m 53s
+	Train Loss: 0.031
+	 Val. Loss: 0.060
+
+Epoch: 346 | Epoch Time: 207m 29s
+	Train Loss: 0.036
+	 Val. Loss: 0.057
+
+Epoch: 347 | Epoch Time: 208m 5s
+	Train Loss: 0.035
+	 Val. Loss: 0.067
+
+Epoch: 348 | Epoch Time: 208m 41s
+	Train Loss: 0.033
+	 Val. Loss: 0.059
+
+Epoch: 349 | Epoch Time: 209m 17s
+	Train Loss: 0.034
+	 Val. Loss: 0.069
+
+Epoch: 350 | Epoch Time: 209m 53s
+	Train Loss: 0.083
+	 Val. Loss: 0.081
+
+Epoch: 351 | Epoch Time: 210m 29s
+	Train Loss: 0.053
+	 Val. Loss: 0.066
+
+Epoch: 352 | Epoch Time: 211m 5s
+	Train Loss: 0.054
+	 Val. Loss: 0.066
+
+Epoch: 353 | Epoch Time: 211m 41s
+	Train Loss: 0.046
+	 Val. Loss: 0.057
+
+Epoch: 354 | Epoch Time: 212m 17s
+	Train Loss: 0.038
+	 Val. Loss: 0.056
+
+Epoch: 355 | Epoch Time: 212m 53s
+	Train Loss: 0.034
+	 Val. Loss: 0.063
+
+Epoch: 356 | Epoch Time: 213m 29s
+	Train Loss: 0.033
+	 Val. Loss: 0.059
+
+Epoch: 357 | Epoch Time: 214m 5s
+	Train Loss: 0.043
+	 Val. Loss: 0.070
+
+Epoch: 358 | Epoch Time: 214m 41s
+	Train Loss: 0.045
+	 Val. Loss: 0.052
+
+Epoch: 359 | Epoch Time: 215m 17s
+	Train Loss: 0.035
+	 Val. Loss: 0.057
+
+Epoch: 360 | Epoch Time: 215m 53s
+	Train Loss: 0.035
+	 Val. Loss: 0.066
+
+Epoch: 361 | Epoch Time: 216m 29s
+	Train Loss: 0.035
+	 Val. Loss: 0.060
+
+Epoch: 362 | Epoch Time: 217m 5s
+	Train Loss: 0.034
+	 Val. Loss: 0.063
+
+Epoch: 363 | Epoch Time: 217m 41s
+	Train Loss: 0.034
+	 Val. Loss: 0.062
+
+Epoch: 364 | Epoch Time: 218m 17s
+	Train Loss: 0.033
+	 Val. Loss: 0.058
+
+Epoch: 365 | Epoch Time: 218m 52s
+	Train Loss: 0.033
+	 Val. Loss: 0.060
+
+Epoch: 366 | Epoch Time: 219m 28s
+	Train Loss: 0.032
+	 Val. Loss: 0.062
+
+Epoch: 367 | Epoch Time: 220m 4s
+	Train Loss: 0.033
+	 Val. Loss: 0.063
+
+Epoch: 368 | Epoch Time: 220m 40s
+	Train Loss: 0.035
+	 Val. Loss: 0.076
+
+Epoch: 369 | Epoch Time: 221m 16s
+	Train Loss: 0.033
+	 Val. Loss: 0.064
+
+Epoch: 370 | Epoch Time: 221m 52s
+	Train Loss: 0.031
+	 Val. Loss: 0.062
+
+Epoch: 371 | Epoch Time: 222m 28s
+	Train Loss: 0.037
+	 Val. Loss: 0.059
+
+Epoch: 372 | Epoch Time: 223m 4s
+	Train Loss: 0.032
+	 Val. Loss: 0.058
+
+Epoch: 373 | Epoch Time: 223m 40s
+	Train Loss: 0.035
+	 Val. Loss: 0.075
+
+Epoch: 374 | Epoch Time: 224m 16s
+	Train Loss: 0.036
+	 Val. Loss: 0.074
+
+Epoch: 375 | Epoch Time: 224m 52s
+	Train Loss: 0.031
+	 Val. Loss: 0.060
+
+Epoch: 376 | Epoch Time: 225m 28s
+	Train Loss: 0.032
+	 Val. Loss: 0.064
+
+Epoch: 377 | Epoch Time: 226m 4s
+	Train Loss: 0.031
+	 Val. Loss: 0.064
+
+Epoch: 378 | Epoch Time: 226m 40s
+	Train Loss: 0.030
+	 Val. Loss: 0.069
+
+Epoch: 379 | Epoch Time: 227m 16s
+	Train Loss: 0.031
+	 Val. Loss: 0.063
+
+Epoch: 380 | Epoch Time: 227m 52s
+	Train Loss: 0.032
+	 Val. Loss: 0.060
+
+Epoch: 381 | Epoch Time: 228m 28s
+	Train Loss: 0.030
+	 Val. Loss: 0.063
+
+Epoch: 382 | Epoch Time: 229m 4s
+	Train Loss: 0.033
+	 Val. Loss: 0.065
+
+Epoch: 383 | Epoch Time: 229m 40s
+	Train Loss: 0.030
+	 Val. Loss: 0.059
+
+Epoch: 384 | Epoch Time: 230m 16s
+	Train Loss: 0.031
+	 Val. Loss: 0.057
+
+Epoch: 385 | Epoch Time: 230m 52s
+	Train Loss: 0.030
+	 Val. Loss: 0.059
+
+Epoch: 386 | Epoch Time: 231m 28s
+	Train Loss: 0.027
+	 Val. Loss: 0.061
+
+Epoch: 387 | Epoch Time: 232m 4s
+	Train Loss: 0.032
+	 Val. Loss: 0.070
+
+Epoch: 388 | Epoch Time: 232m 40s
+	Train Loss: 0.032
+	 Val. Loss: 0.059
+
+Epoch: 389 | Epoch Time: 233m 16s
+	Train Loss: 0.033
+	 Val. Loss: 0.063
+
+Epoch: 390 | Epoch Time: 233m 51s
+	Train Loss: 0.030
+	 Val. Loss: 0.062
+
+Epoch: 391 | Epoch Time: 234m 27s
+	Train Loss: 0.034
+	 Val. Loss: 0.064
+
+Epoch: 392 | Epoch Time: 235m 3s
+	Train Loss: 0.036
+	 Val. Loss: 0.079
+
+Epoch: 393 | Epoch Time: 235m 39s
+	Train Loss: 0.042
+	 Val. Loss: 0.071
+
+Epoch: 394 | Epoch Time: 236m 15s
+	Train Loss: 0.066
+	 Val. Loss: 0.082
+
+Epoch: 395 | Epoch Time: 236m 51s
+	Train Loss: 0.049
+	 Val. Loss: 0.074
+
+Epoch: 396 | Epoch Time: 237m 27s
+	Train Loss: 0.036
+	 Val. Loss: 0.074
+
+Epoch: 397 | Epoch Time: 238m 3s
+	Train Loss: 0.033
+	 Val. Loss: 0.065
+
+Epoch: 398 | Epoch Time: 238m 39s
+	Train Loss: 0.033
+	 Val. Loss: 0.064
+
+Epoch: 399 | Epoch Time: 239m 15s
+	Train Loss: 0.032
+	 Val. Loss: 0.061
+
+Epoch: 400 | Epoch Time: 239m 51s
+	Train Loss: 0.033
+	 Val. Loss: 0.062
+
+Epoch: 401 | Epoch Time: 240m 27s
+	Train Loss: 0.031
+	 Val. Loss: 0.059
+
+Epoch: 402 | Epoch Time: 241m 3s
+	Train Loss: 0.031
+	 Val. Loss: 0.057
+
+Epoch: 403 | Epoch Time: 241m 39s
+	Train Loss: 0.034
+	 Val. Loss: 0.069
+
+Epoch: 404 | Epoch Time: 242m 15s
+	Train Loss: 0.041
+	 Val. Loss: 0.056
+
+Epoch: 405 | Epoch Time: 242m 51s
+	Train Loss: 0.044
+	 Val. Loss: 0.064
+
+Epoch: 406 | Epoch Time: 243m 27s
+	Train Loss: 0.043
+	 Val. Loss: 0.066
+
+Epoch: 407 | Epoch Time: 244m 3s
+	Train Loss: 0.035
+	 Val. Loss: 0.065
+
+Epoch: 408 | Epoch Time: 244m 39s
+	Train Loss: 0.043
+	 Val. Loss: 0.062
+
+Epoch: 409 | Epoch Time: 245m 15s
+	Train Loss: 0.030
+	 Val. Loss: 0.058
+
+Epoch: 410 | Epoch Time: 245m 50s
+	Train Loss: 0.031
+	 Val. Loss: 0.057
+
+Epoch: 411 | Epoch Time: 246m 26s
+	Train Loss: 0.029
+	 Val. Loss: 0.062
+
+Epoch: 412 | Epoch Time: 247m 2s
+	Train Loss: 0.029
+	 Val. Loss: 0.060
+
+Epoch: 413 | Epoch Time: 247m 38s
+	Train Loss: 0.030
+	 Val. Loss: 0.060
+
+Epoch: 414 | Epoch Time: 248m 14s
+	Train Loss: 0.030
+	 Val. Loss: 0.055
+
+Epoch: 415 | Epoch Time: 248m 50s
+	Train Loss: 0.032
+	 Val. Loss: 0.058
+
+Epoch: 416 | Epoch Time: 249m 26s
+	Train Loss: 0.034
+	 Val. Loss: 0.060
+
+Epoch: 417 | Epoch Time: 250m 2s
+	Train Loss: 0.031
+	 Val. Loss: 0.056
+
+Epoch: 418 | Epoch Time: 250m 38s
+	Train Loss: 0.029
+	 Val. Loss: 0.055
+
+Epoch: 419 | Epoch Time: 251m 14s
+	Train Loss: 0.029
+	 Val. Loss: 0.058
+
+Epoch: 420 | Epoch Time: 251m 50s
+	Train Loss: 0.033
+	 Val. Loss: 0.059
+
+Epoch: 421 | Epoch Time: 252m 26s
+	Train Loss: 0.034
+	 Val. Loss: 0.061
+
+Epoch: 422 | Epoch Time: 253m 2s
+	Train Loss: 0.033
+	 Val. Loss: 0.057
+
+Epoch: 423 | Epoch Time: 253m 38s
+	Train Loss: 0.031
+	 Val. Loss: 0.059
+
+Epoch: 424 | Epoch Time: 254m 14s
+	Train Loss: 0.028
+	 Val. Loss: 0.055
+
+Epoch: 425 | Epoch Time: 254m 50s
+	Train Loss: 0.029
+	 Val. Loss: 0.058
+
+Epoch: 426 | Epoch Time: 255m 26s
+	Train Loss: 0.029
+	 Val. Loss: 0.060
+
+Epoch: 427 | Epoch Time: 256m 2s
+	Train Loss: 0.030
+	 Val. Loss: 0.063
+
+Epoch: 428 | Epoch Time: 256m 38s
+	Train Loss: 0.029
+	 Val. Loss: 0.061
+
+Epoch: 429 | Epoch Time: 257m 13s
+	Train Loss: 0.029
+	 Val. Loss: 0.061
+
+Epoch: 430 | Epoch Time: 257m 49s
+	Train Loss: 0.036
+	 Val. Loss: 0.064
+
+Epoch: 431 | Epoch Time: 258m 25s
+	Train Loss: 0.035
+	 Val. Loss: 0.079
+
+Epoch: 432 | Epoch Time: 259m 1s
+	Train Loss: 0.034
+	 Val. Loss: 0.065
+
+Epoch: 433 | Epoch Time: 259m 37s
+	Train Loss: 0.032
+	 Val. Loss: 0.056
+
+Epoch: 434 | Epoch Time: 260m 13s
+	Train Loss: 0.031
+	 Val. Loss: 0.058
+
+Epoch: 435 | Epoch Time: 260m 49s
+	Train Loss: 0.030
+	 Val. Loss: 0.063
+
+Epoch: 436 | Epoch Time: 261m 25s
+	Train Loss: 0.031
+	 Val. Loss: 0.059
+
+Epoch: 437 | Epoch Time: 262m 1s
+	Train Loss: 0.030
+	 Val. Loss: 0.060
+
+Epoch: 438 | Epoch Time: 262m 37s
+	Train Loss: 0.027
+	 Val. Loss: 0.056
+
+Epoch: 439 | Epoch Time: 263m 13s
+	Train Loss: 0.030
+	 Val. Loss: 0.059
+
+Epoch: 440 | Epoch Time: 263m 49s
+	Train Loss: 0.051
+	 Val. Loss: 0.060
+
+Epoch: 441 | Epoch Time: 264m 25s
+	Train Loss: 0.040
+	 Val. Loss: 0.063
+
+Epoch: 442 | Epoch Time: 265m 1s
+	Train Loss: 0.038
+	 Val. Loss: 0.066
+
+Epoch: 443 | Epoch Time: 265m 37s
+	Train Loss: 0.034
+	 Val. Loss: 0.060
+
+Epoch: 444 | Epoch Time: 266m 13s
+	Train Loss: 0.032
+	 Val. Loss: 0.074
+
+Epoch: 445 | Epoch Time: 266m 49s
+	Train Loss: 0.033
+	 Val. Loss: 0.055
+
+Epoch: 446 | Epoch Time: 267m 25s
+	Train Loss: 0.031
+	 Val. Loss: 0.054
+
+Epoch: 447 | Epoch Time: 268m 1s
+	Train Loss: 0.028
+	 Val. Loss: 0.054
+
+Epoch: 448 | Epoch Time: 268m 37s
+	Train Loss: 0.030
+	 Val. Loss: 0.057
+
+Epoch: 449 | Epoch Time: 269m 13s
+	Train Loss: 0.029
+	 Val. Loss: 0.053
+
+Epoch: 450 | Epoch Time: 269m 49s
+	Train Loss: 0.028
+	 Val. Loss: 0.058
+
+Epoch: 451 | Epoch Time: 270m 25s
+	Train Loss: 0.029
+	 Val. Loss: 0.058
+
+Epoch: 452 | Epoch Time: 271m 1s
+	Train Loss: 0.027
+	 Val. Loss: 0.053
+
+Epoch: 453 | Epoch Time: 271m 36s
+	Train Loss: 0.027
+	 Val. Loss: 0.053
+
+Epoch: 454 | Epoch Time: 272m 13s
+	Train Loss: 0.030
+	 Val. Loss: 0.056
+
+Epoch: 455 | Epoch Time: 272m 48s
+	Train Loss: 0.031
+	 Val. Loss: 0.080
+
+Epoch: 456 | Epoch Time: 273m 24s
+	Train Loss: 0.056
+	 Val. Loss: 0.061
+
+Epoch: 457 | Epoch Time: 274m 0s
+	Train Loss: 0.035
+	 Val. Loss: 0.065
+
+Epoch: 458 | Epoch Time: 274m 36s
+	Train Loss: 0.038
+	 Val. Loss: 0.064
+
+Epoch: 459 | Epoch Time: 275m 12s
+	Train Loss: 0.039
+	 Val. Loss: 0.071
+
+Epoch: 460 | Epoch Time: 275m 48s
+	Train Loss: 0.038
+	 Val. Loss: 0.058
+
+Epoch: 461 | Epoch Time: 276m 24s
+	Train Loss: 0.034
+	 Val. Loss: 0.072
+
+Epoch: 462 | Epoch Time: 277m 0s
+	Train Loss: 0.040
+	 Val. Loss: 0.061
+
+Epoch: 463 | Epoch Time: 277m 36s
+	Train Loss: 0.036
+	 Val. Loss: 0.083
+
+Epoch: 464 | Epoch Time: 278m 12s
+	Train Loss: 0.039
+	 Val. Loss: 0.057
+
+Epoch: 465 | Epoch Time: 278m 48s
+	Train Loss: 0.048
+	 Val. Loss: 0.066
+
+Epoch: 466 | Epoch Time: 279m 24s
+	Train Loss: 0.038
+	 Val. Loss: 0.074
+
+Epoch: 467 | Epoch Time: 280m 0s
+	Train Loss: 0.033
+	 Val. Loss: 0.062
+
+Epoch: 468 | Epoch Time: 280m 36s
+	Train Loss: 0.030
+	 Val. Loss: 0.050
+
+Epoch: 469 | Epoch Time: 281m 12s
+	Train Loss: 0.033
+	 Val. Loss: 0.054
+
+Epoch: 470 | Epoch Time: 281m 48s
+	Train Loss: 0.031
+	 Val. Loss: 0.052
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 471 | Epoch Time: 282m 24s
+	Train Loss: 0.029
+	 Val. Loss: 0.047
+
+Saving checkpoint: files/checkpoint_se_unet_CVC.pth
+Epoch: 472 | Epoch Time: 283m 0s
+	Train Loss: 0.028
+	 Val. Loss: 0.047
+
+Epoch: 473 | Epoch Time: 283m 36s
+	Train Loss: 0.029
+	 Val. Loss: 0.049
+
+Epoch: 474 | Epoch Time: 284m 11s
+	Train Loss: 0.029
+	 Val. Loss: 0.050
+
+Epoch: 475 | Epoch Time: 284m 47s
+	Train Loss: 0.028
+	 Val. Loss: 0.052
+
+Epoch: 476 | Epoch Time: 285m 23s
+	Train Loss: 0.028
+	 Val. Loss: 0.052
+
+Epoch: 477 | Epoch Time: 285m 59s
+	Train Loss: 0.031
+	 Val. Loss: 0.053
+
+Epoch: 478 | Epoch Time: 286m 35s
+	Train Loss: 0.029
+	 Val. Loss: 0.057
+
+Epoch: 479 | Epoch Time: 287m 11s
+	Train Loss: 0.028
+	 Val. Loss: 0.059
+
+Epoch: 480 | Epoch Time: 287m 47s
+	Train Loss: 0.029
+	 Val. Loss: 0.055
+
+Epoch: 481 | Epoch Time: 288m 23s
+	Train Loss: 0.027
+	 Val. Loss: 0.059
+
+Epoch: 482 | Epoch Time: 288m 59s
+	Train Loss: 0.028
+	 Val. Loss: 0.054
+
+Epoch: 483 | Epoch Time: 289m 35s
+	Train Loss: 0.027
+	 Val. Loss: 0.052
+
+Epoch: 484 | Epoch Time: 290m 11s
+	Train Loss: 0.026
+	 Val. Loss: 0.054
+
+Epoch: 485 | Epoch Time: 290m 47s
+	Train Loss: 0.027
+	 Val. Loss: 0.061
+
+Epoch: 486 | Epoch Time: 291m 23s
+	Train Loss: 0.027
+	 Val. Loss: 0.061
+
+Epoch: 487 | Epoch Time: 291m 59s
+	Train Loss: 0.028
+	 Val. Loss: 0.056
+
+Epoch: 488 | Epoch Time: 292m 35s
+	Train Loss: 0.029
+	 Val. Loss: 0.060
+
+Epoch: 489 | Epoch Time: 293m 11s
+	Train Loss: 0.028
+	 Val. Loss: 0.059
+
+Epoch: 490 | Epoch Time: 293m 47s
+	Train Loss: 0.028
+	 Val. Loss: 0.071
+
+Epoch: 491 | Epoch Time: 294m 23s
+	Train Loss: 0.028
+	 Val. Loss: 0.057
+
+Epoch: 492 | Epoch Time: 294m 59s
+	Train Loss: 0.028
+	 Val. Loss: 0.060
+
+Epoch: 493 | Epoch Time: 295m 35s
+	Train Loss: 0.031
+	 Val. Loss: 0.062
+
+Epoch: 494 | Epoch Time: 296m 11s
+	Train Loss: 0.029
+	 Val. Loss: 0.056
+
+Epoch: 495 | Epoch Time: 296m 47s
+	Train Loss: 0.036
+	 Val. Loss: 0.071
+
+Epoch: 496 | Epoch Time: 297m 22s
+	Train Loss: 0.035
+	 Val. Loss: 0.056
+
+Epoch: 497 | Epoch Time: 297m 58s
+	Train Loss: 0.032
+	 Val. Loss: 0.070
+
+Epoch: 498 | Epoch Time: 298m 34s
+	Train Loss: 0.036
+	 Val. Loss: 0.062
+
+Epoch: 499 | Epoch Time: 299m 10s
+	Train Loss: 0.032
+	 Val. Loss: 0.059
+
+Epoch: 500 | Epoch Time: 299m 46s
+	Train Loss: 0.033
+	 Val. Loss: 0.067
+

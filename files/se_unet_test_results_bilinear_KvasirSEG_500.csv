@@ -1,0 +1,2 @@
+Jaccard,F1,Recall,Precision,Specificity,Accuracy,F2,Mean Time,Mean FPS
+0.8300,0.8896,0.9035,0.9157,0.9835,0.9687842,0.8913004,0.0373888,26.7460004
