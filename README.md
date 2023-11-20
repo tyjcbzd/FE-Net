@@ -1,2 +1,3 @@
-# FE-Net
-Feature Enhancement Network For Improved Biomedical Image Segmentation 
+# FE-Net: Biomedical image segmentation for efficient segmentation
+This is the official implementation for above paper.
+
