@@ -1,5 +1,7 @@
-# FE-Net: Biomedical image segmentation for efficient segmentation
-This is the official implementation for above paper.
+# :bug:: Biomedical image segmentation for efficient segmentation
+
+## State
+- 27.06.2024 - The article was published in Journal "Doklady BGUIR" 🇧🇾.
 
 ## Requirements
 * torch == 1.13.1
