@@ -23,12 +23,12 @@ Split the datasets for train, validation and test
 | CVC-clinicDB           | ![Image 7](examples/1_origin_cvc.png) | ![Image 8](examples/1_gt_mask_cvc.png) | ![Image 9](examples/1_pred_mask_cvc.png) |
 
 ## :black_nib: For citation
-
+```bibtex
 @article{zhao2024effective,
   title={Effective Algorithm for Biomedical Image Segmentation},
   author={Zhao, Di and Tang, Yi and Gourinovitch, ALEVTINA B},
   year={2024},
   publisher={БГУИР}
 }
-
+```
 :exclamation: :eyes: **The codes can not be used for commercial purposes!!!**
